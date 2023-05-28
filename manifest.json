@@ -1,0 +1,10 @@
+{
+    "name":"सुविचार",
+    "description":"It is a simple google chrome extension that generates a random सुविचार (motivational thought) on reloading.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"index.html",
+        "default_icon": "icons8-motivation-64.png"
+    }
+}
